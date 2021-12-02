@@ -4,7 +4,7 @@ This repository represents the front end coding of a Vue SPA with a Laravel 8 ba
 
 This project involves usage of Vue.js 2.0, Vue Router and VueX for state management
 
-Jest has been used for certain testing ref. https://jestjs.io/
+Jest has been used for certain testing
 
 A Vue package that wraps the CASL front end abilities/permissions has been used ref. https://www.npmjs.com/package/@casl/vue
 
