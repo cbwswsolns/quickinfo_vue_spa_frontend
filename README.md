@@ -7,6 +7,7 @@ This project involves usage of Vue.js 2.0, Vue Router and VueX for state managem
 Jest has been used for certain testing ref. https://jestjs.io/
 
 A Vue package that wraps the CASL front end abilities/permissions has been used ref. https://www.npmjs.com/package/@casl/vue
+(note: certain aspects of the authorization work are outstanding)
 
 Also, this project uses Bootstrap Vue ref. https://bootstrap-vue.org/
 
